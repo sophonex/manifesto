@@ -1,12 +1,6 @@
-# Manifesto
-*Make crypto trading frictionless and free.*
+# Introduction
 
-## SophonEX
-#### A commission-free crypto to crypto exchange, for the decentralized community.
-
-### Mission
-
-**Make crypto trading frictionless and free.** We believe that charging per-trade commission (no matter 0.1% or a staggering 3%) is evil in the decentralized world. Decentralized services need to be commission-free; and this spreading freedom is beneficial to the whole human society.
+*SophonEX - a commission-free crypto to crypto exchange, for the decentralized community.*
 
 ### Who we are
 
